@@ -1,0 +1,92 @@
+table.center {
+    width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.key_small {
+    font-size: 10px
+}
+
+.key_row div {
+    float: left
+}
+
+.key_row div {
+    padding: 4px 8px;
+    margin: 4px;
+    border-width: 2px;
+    border-style: solid;
+    font-family: monospace
+}
+
+.key_row {
+    clear: both
+}
+
+.key_un {
+    border-color: #857f7f
+}
+
+.key_pressed {
+    border-color: orange;
+}
+
+.key_up {
+    border-color: #03d703;
+}
+
+.key_small {
+    font-size: 10px
+}
+
+.key_block {
+    border-collapse: separate;
+    border-spacing: 8px;
+    margin: 0;
+    padding: 0
+}
+
+.key_block tr td, .key_row div {
+    padding: 4px 8px;
+    margin: 4px;
+    border-width: 2px;
+    border-style: solid;
+    font-family: monospace
+}
+
+.key_block td.blank {
+    border-color: transparent
+}
+
+#key32 {
+    width: 160px;
+    text-align: center
+}
+
+#key16 {
+    width: 75px;
+    text-align: center
+}
+
+#key16b {
+    width: 100px;
+    text-align: center
+}
+
+#key13 {
+    width: 75px;
+    text-align: center
+}
+
+#key220 {
+    width: 83px;
+    text-align: center
+}
+
+#key8 {
+    width: 96px;
+    text-align: center
+}
+
+
